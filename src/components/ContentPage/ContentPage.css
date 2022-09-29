@@ -1,0 +1,21 @@
+.content-page {
+    width: 90%;
+    margin: 5px auto;
+    padding: 10px;
+    border: solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.content-image {
+    width: 200px;
+    border-radius: 5px;
+}
+
+.content-button {
+    width: 200px;
+    height: 40px;
+    padding: 5px;
+    font-size: 24px;
+}
